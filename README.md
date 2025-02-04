@@ -36,3 +36,6 @@ The **Quiz App** is an interactive web-based application that allows users to te
 4. At the end, the user sees their total score.  
 
 
+**OUTPUT** :
+https://github.com/DhanushR007/Codtech-frontend-task-01-Quiz-App/issues/1#issue-2830504845
+https://github.com/DhanushR007/Codtech-frontend-task-01-Quiz-App/issues/1#issue-2830504845
